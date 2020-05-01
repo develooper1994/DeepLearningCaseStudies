@@ -1,0 +1,90 @@
+[
+    {
+        "run": 1,
+        "epoch": 1,
+        "loss": 0.566484306305647,
+        "accuracy": 0.78135,
+        "epoch duration": 12.335363149642944,
+        "run duration": 13.946926593780518,
+        "lr": 0.01,
+        "batch_size": 100,
+        "shuffle": true
+    },
+    {
+        "run": 2,
+        "epoch": 1,
+        "loss": 0.5984889107942581,
+        "accuracy": 0.7726333333333333,
+        "epoch duration": 12.595264911651611,
+        "run duration": 12.72773790359497,
+        "lr": 0.01,
+        "batch_size": 100,
+        "shuffle": false
+    },
+    {
+        "run": 3,
+        "epoch": 1,
+        "loss": 0.98911485572656,
+        "accuracy": 0.6309333333333333,
+        "epoch duration": 8.670411586761475,
+        "run duration": 9.44655442237854,
+        "lr": 0.01,
+        "batch_size": 1000,
+        "shuffle": true
+    },
+    {
+        "run": 4,
+        "epoch": 1,
+        "loss": 1.014751488963763,
+        "accuracy": 0.61235,
+        "epoch duration": 8.615301132202148,
+        "run duration": 9.350988388061523,
+        "lr": 0.01,
+        "batch_size": 1000,
+        "shuffle": false
+    },
+    {
+        "run": 5,
+        "epoch": 1,
+        "loss": 0.726720260878404,
+        "accuracy": 0.7343333333333333,
+        "epoch duration": 12.544043779373169,
+        "run duration": 12.744592905044556,
+        "lr": 0.001,
+        "batch_size": 100,
+        "shuffle": true
+    },
+    {
+        "run": 6,
+        "epoch": 1,
+        "loss": 0.7700396439433098,
+        "accuracy": 0.7134833333333334,
+        "epoch duration": 11.851344108581543,
+        "run duration": 12.030288457870483,
+        "lr": 0.001,
+        "batch_size": 100,
+        "shuffle": false
+    },
+    {
+        "run": 7,
+        "epoch": 1,
+        "loss": 1.447426012158394,
+        "accuracy": 0.50435,
+        "epoch duration": 8.703633785247803,
+        "run duration": 9.5764479637146,
+        "lr": 0.001,
+        "batch_size": 1000,
+        "shuffle": true
+    },
+    {
+        "run": 8,
+        "epoch": 1,
+        "loss": 1.520326586564382,
+        "accuracy": 0.5015666666666667,
+        "epoch duration": 8.1310396194458,
+        "run duration": 8.875242233276367,
+        "lr": 0.001,
+        "batch_size": 1000,
+        "shuffle": false
+    }
+]
