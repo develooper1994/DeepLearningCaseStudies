@@ -1,0 +1,3 @@
+autoencoders
+https://www.deeplearningbook.org/contents/autoencoders.html
+http://ufldl.stanford.edu/tutorial/unsupervised/Autoencoders/

@@ -1,0 +1,7 @@
+deep learning noise reduction
+LMS(Least mean squares filter): https://www.wikizeroo.org/index.php?q=aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvTGVhc3RfbWVhbl9zcXVhcmVzX2ZpbHRlcg
+RLS(Recursive least squares filter): https://www.wikizeroo.org/index.php?q=aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvUmVjdXJzaXZlX2xlYXN0X3NxdWFyZXNfZmlsdGVy
+https://www.youtube.com/watch?v=e_OlZuuCtdc
+https://towardsdatascience.com/acoustic-noise-cancellation-by-machine-learning-4144af497661
+https://towardsdatascience.com/deep-active-noise-cancellation-e364ce4562d4
+https://www.mathworks.com/help/deeplearning/examples/denoise-speech-using-deep-learning-networks.html

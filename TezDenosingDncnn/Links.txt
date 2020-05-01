@@ -1,0 +1,29 @@
+Books :
+https://www.deeplearningbook.org/
+http://neuralnetworksanddeeplearning.com/
+
+Others:
+https://ieeexplore.ieee.org/document/7839189
+https://arxiv.org/abs/1608.03981
+https://github.com/cszn
+https://github.com/cszn/DnCNN
+
+https://www.mathworks.com/help/images/ref/dncnnlayers.html
+https://www.mathworks.com/help/audio/examples/denoise-speech-using-deep-learning-networks.html
+https://www.mathworks.com/help/images/jpeg-image-deblocking-using-deep-learning.html
+https://www.mathworks.com/help/images/train-and-apply-denoising-neural-networks.html
+https://towardsdatascience.com/residual-blocks-building-blocks-of-resnet-fd90ca15d6ec
+https://towardsdatascience.com/an-overview-of-resnet-and-its-variants-5281e2f56035
+
+https://arxiv.org/abs/1708.00853
+https://github.com/kuleshov/audio-super-res
+https://kuleshov.github.io/audio-super-res/
+
+https://machinelearningmastery.com/ensemble-methods-for-deep-learning-neural-networks/
+
+Ranger optimizer(Radam + Lookahead) = https://medium.com/@lessw/new-deep-learning-optimizer-ranger-synergistic-combination-of-radam-lookahead-for-the-best-of-2dc83f79a48d
+https://github.com/lessw2020/Ranger-Deep-Learning-Optimizer?source=post_page-----2dc83f79a48d----------------------
+Radam(Rectifier adam(variance reducer)): https://arxiv.org/pdf/1908.03265v1.pdf
+https://towardsdatascience.com/adam-in-2019-whats-the-next-adam-optimizer-e9b4a924b34f#1ac5
+https://medium.com/@lessw/new-state-of-the-art-ai-optimizer-rectified-adam-radam-5d854730807b
+Lookahead
